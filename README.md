@@ -13,3 +13,21 @@
 
     Trong đó: <br/>
     `<class_name>` là tên **lớp** bạn muốn phân tích. Tên lớp với trùng với tên file hiện có
+
+3. Kết quả demo:
+    ```
+    python lastname_firstname_grade_the_exams.py class1
+    ```
+    ```
+    Successfully opened class1.txt
+    **** ANALYZING ****
+    No errors found!
+    **** REPORT ****
+    Total valid lines of data: 20
+    Total invalid lines of data: 0
+    Mean (average) score: 75.6
+    Highest score: 91
+    Lowest score: 59
+    Range of scores: 32
+    Median score: 73.0
+    ```
