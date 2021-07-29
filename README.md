@@ -1,4 +1,4 @@
-# MLP301x_1.2-A_VN Giới thiệu về Học máy
+# MLP301x_1.2-A_VN Giới thiệu về Học máy - Assignment 1 
 ## Hướng dẫn sử dụng `project`
 
 1. Cài đặt thư viện:
